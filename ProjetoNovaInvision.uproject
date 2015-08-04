@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.8",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProjetoNovaInvision",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ProjetoNovaInvision.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4B0BA19D-CC4E-46E7-A121-8EB24CFB7D72}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProjetoNovaInvision.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ProjetoNovaInvisionEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{09C878EA-42AA-4286-81EC-36E098B5BF56}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ProjetoNovaInvision">
+			<UniqueIdentifier>{1DF3269A-0AF3-4A25-9973-F8A5A88BDA26}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProjetoNovaInvision\ProjetoNovaInvision.Build.cs">
+			<Filter>Source\ProjetoNovaInvision</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ProjetoNovaInvision\ProjetoNovaInvision.cpp">
+			<Filter>Source\ProjetoNovaInvision</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProjetoNovaInvision\ProjetoNovaInvision.h">
+			<Filter>Source\ProjetoNovaInvision</Filter>
+		</ClInclude >
+		<Filter Include="Source\ProjetoNovaInvision\Private">
+			<UniqueIdentifier>{42138A22-0A28-4A98-951A-F178DC42ADA5}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ProjetoNovaInvision\Private\GraphicsNodes.cpp">
+			<Filter>Source\ProjetoNovaInvision\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProjetoNovaInvision\Private\GraphicsNodes.h">
+			<Filter>Source\ProjetoNovaInvision\Private</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
